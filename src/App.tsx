@@ -8,6 +8,7 @@ const funds: IFund[] = [
   {id: 'F4', name: 'Fund 4'},
   {id: 'F5', name: 'Fund 5'},
   {id: 'F6', name: 'Fund 6'},
+  {id: 'F7', name: 'Fund 7'},
 ];
 
 const onFilterChanged = (
